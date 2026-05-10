@@ -12,3 +12,6 @@
 
 ## 미션3 - 마이페이지
 ![mypage.png](./images/mypage.png)
+
+## 미션4 - 홈화면
+![home.png](./images/home.png)
