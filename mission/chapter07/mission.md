@@ -13,4 +13,5 @@
 ![valid_star_over5.png](./images/valid_star_over5.png)
 ![valid_star_negative.png](./images/valid_star_negative.png)
 
-
+## 피어리뷰 - 유리의 워크북 캡쳐
+![7주차_제이의_유리_피어리뷰.png](./images/7주차_제이의_유리_피어리뷰.png)
